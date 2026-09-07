@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.first-button {
+    color: #ffffff;
+    background-color: #000;
+}
+
+.second-button {
+    background-color: rgba(255, 255, 0, 0.885);
+}
+
+.first-button,
+.second-button {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
